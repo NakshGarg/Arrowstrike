@@ -42,13 +42,3 @@ Every miss reminds you—skill matters.
 - **JavaScript (ES6)** – Game logic, physics, and interactions  
 
 ---
-
-## 📁 Project Structure
-
-ArrowStrike/
-│
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-└── (arrows, targets, sounds, backgrounds)
