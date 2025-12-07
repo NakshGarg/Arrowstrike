@@ -45,3 +45,10 @@ Every miss reminds you—skill matters.
 
 ## 📁 Project Structure
 
+ArrowStrike/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+└── (arrows, targets, sounds, backgrounds)
