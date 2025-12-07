@@ -1,49 +1,47 @@
-2. Open `index.html` in your browser  
-3. Aim.
-4. Release.
-5. Strike the target.
+# 🏹 ArrowStrike  
+A precision-based archery game built with **HTML, CSS, and JavaScript**.  
+One arrow. One target. Zero excuses.
 
 ---
 
-## 🧠 Objective
+## 🎮 About the Game
 
-- Hit as many targets as possible  
-- Improve your accuracy  
-- Increase your score  
-- Master timing and precision  
+**ArrowStrike** is a fast, reflex-driven archery game where timing, focus, and accuracy decide everything.  
+Your goal is simple: **aim carefully, release at the perfect moment, and hit the target**.
 
-This is not button-mashing.  
-This is **focus under pressure**.
+Every shot tests your precision.  
+Every miss reminds you—skill matters.
 
 ---
 
-## 🗺️ Future Enhancements (Planned)
+## 🕹️ Controls
 
-- Wind effect for realistic arrow physics  
-- Power meter for shot strength  
-- Multiple target types  
-- Sound effects & background music  
-- Mobile touch optimization  
-- High-score system using LocalStorage  
+- **Mouse / Touch** → Aim
+- **Click / Tap** → Shoot the arrow  
+- Hit the **target** to score  
+- Misses reduce your chances (or cost lives, depending on your mode)
 
 ---
 
-## 👨‍💻 Developer
+## ⚙️ Features
 
-Developed with discipline and obsession for accuracy by **Naksh**  
-Built using logic. Sharpened by mistakes.
-
----
-
-## 📜 License
-
-This project is licensed for **educational and personal use**.  
-Feel free to fork, learn, and level up.
+- ✅ Smooth archery mechanics  
+- ✅ Real-time aiming system  
+- ✅ Score tracking  
+- ✅ Increasing difficulty  
+- ✅ Clean and minimal UI  
+- ✅ Responsive gameplay  
+- ✅ Built using **Vanilla JavaScript only**
 
 ---
 
-## ⭐ Support the Project
+## 🛠️ Tech Stack
 
-If ArrowStrike made you aim better—  
-Drop a star on the repository.
-It helps more than you think.
+- **HTML5** – Game structure  
+- **CSS3** – Styling and animations  
+- **JavaScript (ES6)** – Game logic, physics, and interactions  
+
+---
+
+## 📁 Project Structure
+
